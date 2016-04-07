@@ -1,0 +1,6 @@
+comida
+juegos
+deportes
+ropa
+
+varios
